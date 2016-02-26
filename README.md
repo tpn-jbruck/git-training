@@ -1,4 +1,4 @@
 # git-training
 To perform some testing of git branches.
 
-change for feature2
+some feature 3feature2
