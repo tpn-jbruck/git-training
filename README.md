@@ -9,6 +9,6 @@ feature two
 >>>>>>> f40597f... feature two
 =======
 
-feature three
+feature threesomething
 
 >>>>>>> e1dfea1... JIRA-9999 Awesome fix
